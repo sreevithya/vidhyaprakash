@@ -1,0 +1,4 @@
+pillow
+blanket
+jacket
+wood
