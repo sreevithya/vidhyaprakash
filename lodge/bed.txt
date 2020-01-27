@@ -1,4 +1,4 @@
 pillow
-blanket
+plywood
 jacket
 wood
